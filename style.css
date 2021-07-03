@@ -9,7 +9,7 @@ body {
     display: flex;
     color: white;
     height: 100vh;
-    padding-left: 230px;
+    padding-left: 200px;
     padding-top: 250px;
 
     background: url('./flower.jpg');
@@ -21,6 +21,7 @@ body {
 .typing {
     margin-left: 10px;
     position: relative;
+    color: rgb(250, 146, 34);
 }
 
 .typing::after {
